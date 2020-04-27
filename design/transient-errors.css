@@ -1,0 +1,12 @@
+.FloatingError {
+	position: fixed;
+	top: 20px;
+	left: 0;
+	width: 100%;
+	padding: 20px;
+}
+
+.FloatingError .Errors {
+	position: static;
+}
+

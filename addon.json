@@ -1,0 +1,11 @@
+{
+	"type": "addon",
+	"key": "MassInvite",
+	"name": "Mass Invite",
+	"description": "Create invitation codes that can be used and reused many times.",
+	"version": "0.0.1",
+	"mobileFriendly": true,
+	"authors": [
+		{"name": "DannyTheNinja", "email": "danny@paddedninja.net"}
+	]
+}
